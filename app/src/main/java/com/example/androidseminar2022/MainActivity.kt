@@ -34,7 +34,12 @@ class MainActivity : AppCompatActivity() {
     private fun chucNang05() {
         Log.e("xxx", "Nguyen van phuc dang di choi quoc te thieu nhi vao 16h00 ngay 1/6 xx")
     }
+
     private fun chucNang07(){
         Log.e("xxx","Nguyen van phuc dang di choi quoc te thieu nhi vao 16h00 ngay 1/6")
+    }
+
+    private fun chucNang08() {
+        Log.e("xxx", "Nguyen van phuc dang di choi quoc te thieu nhi vao 16h00 ngay 1/6 xx")
     }
 }
