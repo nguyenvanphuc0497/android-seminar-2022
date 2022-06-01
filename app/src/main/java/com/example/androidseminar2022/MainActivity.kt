@@ -9,7 +9,7 @@ class MainActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
 
-        chucNang01()
+        chucNang07()
     }
 
     private fun chucNang01(){
