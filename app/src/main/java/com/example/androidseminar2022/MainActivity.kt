@@ -11,6 +11,7 @@ class MainActivity : AppCompatActivity() {
 
         chucNang01()
         chucNang02()
+        chucNang03()
     }
 
     private fun chucNang01() {
@@ -18,6 +19,10 @@ class MainActivity : AppCompatActivity() {
     }
 
     private fun chucNang02() {
+        Log.e("xxx", "Nguyen van phuc dang di choi quoc te thieu nhi vao 16h00 ngay 1/6 xx")
+    }
+
+    private fun chucNang03() {
         Log.e("xxx", "Nguyen van phuc dang di choi quoc te thieu nhi vao 16h00 ngay 1/6 xx")
     }
 }
