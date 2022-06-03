@@ -50,4 +50,8 @@ class MainActivity : AppCompatActivity() {
     private fun chucNang08part2SuDungRebaseOnMerge() {
         Log.e("xxx", "Nguyen van phuc dang di choi quoc te thieu nhi vao 16h00 ngay 1/6 xx")
     }
+
+    private fun chucNang08part3SuDungRebaseOnMerge() {
+        Log.e("xxx", "Nguyen van phuc dang di choi quoc te thieu nhi vao 16h00 ngay 1/6 xx")
+    }
 }
