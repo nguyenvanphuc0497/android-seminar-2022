@@ -12,7 +12,7 @@ class MainActivity : AppCompatActivity() {
         chucNang01()
         chucNang02()
         chucNang03()
-        chucNang04()
+        chucNang05()
     }
 
     private fun chucNang01() {
